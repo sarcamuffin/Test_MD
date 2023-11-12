@@ -30,6 +30,10 @@ img {
     width : 800 px;
     height : 600 px;
 }
+#media{
+     width: 20px;
+    height: 10px;
+}
 header h1 {
   font-size: 70px;
   font-weight: 600;
@@ -40,10 +44,7 @@ header h1 {
     
 }
 
-#media{
-     max-width: 20%;
-    max-height: 10%;
-}
+
 nav ul {
     list-style: none;
 }
