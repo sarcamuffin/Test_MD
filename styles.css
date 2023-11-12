@@ -40,9 +40,9 @@ header h1 {
     
 }
 
-.media{
-     width: 10px;
-    height: 4px;
+#media{
+     max-width: 20%;
+    max-height: 10%;
 }
 nav ul {
     list-style: none;
