@@ -15,11 +15,16 @@ body {
 /* Add styles for your sections, footer, etc. */
 
 
-/*header {
+header {
     background-color: #f5f5f5;
     padding: 20px;
-    background-image: "family.jpg";
-}*/
+    /*background-image: "family.jpg";*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center; /* For horizontal alignment */
+    margin: 0;
+}
 header h1 {
   font-size: 70px;
   font-weight: 600;
