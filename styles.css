@@ -21,6 +21,10 @@ header {
     /*background-image: "family.jpg";*/
    
 }
+img {
+    width : 800 px;
+    height : 600 px;
+}
 header h1 {
   font-size: 70px;
   font-weight: 600;
