@@ -9,8 +9,8 @@ body {
     line-height: 1.6;
 }
 .outside-body {
-      position: absolute;
-      bottom: 0;
+     
+     
       left: 50%; /* Ajuster la valeur pour la position horizontale */
       transform: translateX(-50%); /* Ajuster la valeur pour la position horizontale */
       z-index: 999; /* Assure que l'image est en avant */
