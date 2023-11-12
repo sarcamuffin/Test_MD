@@ -11,9 +11,7 @@ body {
 .outside-body {
      
      
-      left: 50%; /* Ajuster la valeur pour la position horizontale */
-      transform: translateX(-50%); /* Ajuster la valeur pour la position horizontale */
-      z-index: 999; /* Assure que l'image est en avant */
+      
     }
 
 /* Rest of your existing CSS styles for the elements within the body */
