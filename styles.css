@@ -28,11 +28,9 @@ header h1 {
   color: transparent;
   background-clip: text;
   -webkit-background-clip: text;
-     display: flex;
-    justify-content: center;
-    align-items: center;
+   
     text-align: center; /* For horizontal alignment */
-    margin: 0;
+    
 }
 
 nav ul {
